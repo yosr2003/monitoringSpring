@@ -1,0 +1,58 @@
+To: yosr.amamou@yahoo.com
+Subject: Event CEV-98765432-a8
+Body: Event ID: CEV-98765432-a8
+Event Type: CARD_DISABLED
+Timestamp: 2024-07-09T18:00:00
+this user has a failed operation
+-----
+To: 
+Subject: Event CEV-98765432-a8
+Body: Event ID: CEV-98765432-a8
+Event Type: CARD_DISABLED
+Timestamp: 2024-07-09T18:00:00
+-----
+To: 
+Subject: Event CEV-98765432-a8
+Body: Event ID: CEV-98765432-a8
+Event Type: CARD_DISABLED
+Timestamp: 2024-07-09T18:00:00
+
+
+esssssssai
+-----
+To: 
+Subject: Event CEV-24681357
+Body: Event ID: CEV-24681357
+Event Type: CARD_LIMIT_CHANGED
+Timestamp: 2024-07-13T14:20:15.789
+
+attijari bank
+-----
+To: chaouch.ahmed@attijaribank.com.tn
+CC: chaouch.ahmed@attijaribank.com.tn
+Subject: test
+Body: <h1 style="color: #000000; font-size: 24px;">Welcome tNewsletter!</h1>
+-----
+To: chaouch.ahmed@attijaribank.com.tn
+CC: chaouch.ahmed@attijaribank.com.tn
+Subject: tester2003
+Body: it is necessary to do our works correctly
+-----
+To: chaouch.ahmed@attijaribank.com.tn
+CC: chaouch.ahmed@attijaribank.com.tn
+Subject: Event CEV-208888888887
+Body: Event ID: CEV-208888888887
+Event Type: CARD_3DSECURE_ACTIVATED
+Timestamp: 2024-07-13T14:20:15.789
+
+esssai
+-----
+To: molka@essai.com
+CC: chaouch.ahmed@attijaribank.com.tn
+Subject: Event CEV-98765432-a8
+Body: Event ID: CEV-98765432-a8
+Event Type: CARD_DISABLED
+Timestamp: 2024-07-09T18:00:00
+
+there is a problem here
+-----
